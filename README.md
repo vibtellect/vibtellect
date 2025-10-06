@@ -31,7 +31,7 @@ Mein Fokus: Transparenz durch Observability, reproduzierbare Deployments per IaC
 2) **Plan & Angebot** – Scope, Timeline, Risiken  
 3) **Umsetzung** – IaC, Pipelines, Dashboards, Handover & Doku  
 
-**Verfügbarkeit:** ab Januar • **Zeitzone:** Europe/Berlin • **NDA:** jederzeit • **Remote-first**
+**Verfügbarkeit:** ab Januar • **Zeitzone:** Europe/Berlin • **NDA:** jederzeit • **Remote-only**
 
 ---
 
