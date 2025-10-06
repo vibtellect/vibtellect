@@ -22,9 +22,6 @@ Mein Fokus liegt auf:
 ### 🟣 [Microservice Monitoring Stack](https://github.com/vibtellect/project-monitoring)
 CloudWatch + X-Ray + ECS Dashboards → komplette Observability-Umgebung.
 
-### 🟠 [Vault & Keycloak Integration](https://github.com/vibtellect/vault-keycloak-integration)
-Automatische Secret-Rotation und OIDC SSO für Container-Umgebungen.
-
 ---
 
 ## ☁️ Tech Stack
@@ -38,10 +35,10 @@ Automatische Secret-Rotation und OIDC SSO für Container-Umgebungen.
 ---
 
 ## 🧩 Kontakt
-💼 [LinkedIn](https://www.linkedin.com/in/vibtellect)  
-📧 vitalij@bojatschkin.de  
+💼 [LinkedIn](https://www.linkedin.com/in/vitalij-bojatschkin/)  
+📧 info@bojatschkin.de  
 🌍 [bojatschkin.de](https://bojatschkin.de)
 
 ---
 
-⭐️ **Wenn dir meine Projekte gefallen, lass ein Star da!**
+**Wenn dir meine Projekte gefallen, lass uns gerne vernetzen und über eine Mögliche zusammenarbeit reden!**
