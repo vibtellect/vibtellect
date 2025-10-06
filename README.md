@@ -1,10 +1,10 @@
-# 👋 Hi, ich bin Vitalij
+# Hi, ich bin Vitalij
 
 Cloud & DevOps Engineer | AWS • Infrastructure as Code • Automation • Security • Monitoring
 
 ---
 
-## 🚀 Über mich
+## Über mich
 Ich helfe Unternehmen, **AWS-Infrastrukturen** sicher, skalierbar und kosteneffizient aufzubauen.  
 Mein Fokus liegt auf:
 - CI/CD Automatisierung (GitHub Actions, AWS CodePipeline)
@@ -14,7 +14,7 @@ Mein Fokus liegt auf:
 
 ---
 
-## 🧱 Projekte
+## Projekte
 
 ### 🟢 [AWS Portfolio Setup](https://github.com/vibtellect/aws-portfolio-setup)
 **Free-Tier-First AWS-Setup**: Multi-Account Struktur mit Cost Monitoring, Security Hub und GuardDuty.
@@ -34,7 +34,7 @@ CloudWatch + X-Ray + ECS Dashboards → komplette Observability-Umgebung.
 
 ---
 
-## 🧩 Kontakt
+## Kontakt
 💼 [LinkedIn](https://www.linkedin.com/in/vitalij-bojatschkin/)  
 📧 info@bojatschkin.de  
 🌍 [bojatschkin.de](https://bojatschkin.de)
