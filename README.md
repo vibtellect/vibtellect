@@ -1,16 +1,37 @@
 # Hi, ich bin Vitalij
 
-Cloud & DevOps Engineer | AWS • Infrastructure as Code • Automation • Security • Monitoring
+**Cloud & DevOps Engineer** — AWS • Infrastructure as Code • Automation • Security • Observability
+
+> Ich helfe Tech-Teams, **AWS-Infrastrukturen in Wochen statt Monaten** sauber aufzusetzen:
+> automatisiert (IaC), beobachtbar (Dashboards/Tracing) und **kostenbewusst** – ohne an Sicherheit zu sparen.
 
 ---
 
 ## Über mich
-Ich helfe Unternehmen, **AWS-Infrastrukturen** sicher, skalierbar und kosteneffizient aufzubauen.  
-Mein Fokus liegt auf:
-- CI/CD Automatisierung (GitHub Actions, AWS CodePipeline)
-- Infrastructure as Code (CDK v2, Terraform)
-- Security & Compliance (GuardDuty, Security Hub, Vault)
-- Observability (CloudWatch, X-Ray, Grafana)
+Ich baue **sichere, skalierbare und wartbare** Cloud-Plattformen auf AWS – von der Architektur bis zum automatisierten Betrieb.  
+Mein Fokus: Transparenz durch Observability, reproduzierbare Deployments per IaC und klare Sicherheits-Guardrails.
+
+**Typische Einsatzfelder**
+- CI/CD-Automatisierung (GitHub Actions, AWS CodePipeline)
+- Infrastructure as Code (AWS CDK v2, Terraform)
+- Security & Compliance (GuardDuty, Security Hub, HashiCorp Vault)
+- Observability & Monitoring (CloudWatch, X-Ray, Grafana)
+
+---
+
+## Was ich für Sie löse
+- **Landing Zone & IaC**: Multi-Account/Guardrails, Pipelines, wiederholbare Stages – **alles als Code**  
+- **Observability in 5 Tagen**: CloudWatch/X-Ray/Grafana – Dashboards, Alarme, Runbooks  
+- **Cost & Security Quick-Audit**: 30–60 Punkte Check (Budgets, IAM, GuardDuty, Security Hub, CloudTrail)
+
+---
+
+## Zusammenarbeit – in 3 Schritten
+1) **Kurz-Call (30 Min)** – Ziele, Ist-Stand, Quick Wins  
+2) **Plan & Angebot** – Scope, Timeline, Risiken  
+3) **Umsetzung** – IaC, Pipelines, Dashboards, Handover & Doku  
+
+**Verfügbarkeit:** ab Januar • **Zeitzone:** Europe/Berlin • **NDA:** jederzeit • **Remote-first**
 
 ---
 
@@ -25,7 +46,7 @@ Mein Fokus liegt auf:
 
 ---
 
-## ☁️ Tech Stack & Tools
+## Tech Stack & Tools
 
 Hier sind Tools und Technologien, mit denen ich regelmäßig arbeite:
 
