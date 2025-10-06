@@ -14,17 +14,14 @@ Mein Fokus liegt auf:
 
 ---
 
-## Ausgewählte Projekte & Work Samples
+> Eine Auswahl meiner öffentlich zugänglichen Repositories — Beispiele für Architektur, IaC und Automatisierung.
 
-> Hier findest du meine wichtigsten öffentlichen Repos mit einem kurzen Überblick.  
-> (Diese sind idealerweise auch in deinem Profil „angeheftet“ – bis zu 6 Repos)
-
-| Projekt | Kurzbeschreibung / Ziel | Technologien & Highlights |
+| Projekt | Beschreibung | Technologien & Highlights |
 |---|---|---|
-| **[aws-data-processing-infra](https://github.com/vibtellect/aws-data-processing-infra)** | Voll automatisierte, skalierbare und sichere Datenverarbeitungs-Infrastruktur in AWS | Terraform / IaC, AWS Services, Data Pipelines |
-| **[ecs-eks-service-discovery](https://github.com/vibtellect/ecs-eks-service-discovery)** | Service Discovery in Container-Umgebungen | TypeScript, AWS ECS / EKS, Networking |
-| **[high_availability_architecture](https://github.com/vibtellect/high_availability_architecture)** | Demo eines hochverfügbaren Architektur-Designs | Python, Multi-AZ, Failover-Konzepte |
-| **[url-shortener-aws](https://github.com/vibtellect/url-shortener-aws)** | URL-Shortener als Microservice in AWS | TypeScript, Serverless / Container, API-Design |
+| **[aws-data-processing-infra](https://github.com/vibtellect/aws-data-processing-infra)** | Aufbau einer vollständig automatisierten Datenverarbeitungs-Infrastruktur in AWS. Die Pipeline verarbeitet eingehende Datenereignisse serverless, führt Transformationen aus und speichert Ergebnisse in S3 oder einer Datenbank. Das Projekt zeigt, wie man **skalierbare Data Pipelines** mit IaC und Monitoring aufbaut. <br>🎯 **Learning:** End-to-End-Automatisierung von Data Workflows mit Terraform, Lambda & EventBridge, inklusive CI/CD und Security-Konzepten. | Terraform, AWS Lambda, EventBridge, S3, CloudWatch, CI/CD |
+| **[ecs-eks-service-discovery](https://github.com/vibtellect/ecs-eks-service-discovery)** | Implementiert **dynamische Service Discovery** zwischen ECS- und EKS-Services, um containerisierte Anwendungen ohne manuelle Konfiguration zu vernetzen. Ideal für hybride Umgebungen. <br>🎯 **Learning:** Verständnis von DNS-basiertem Discovery, Load Balancing und Networking-Patterns in AWS-Containern. | TypeScript, AWS ECS, EKS, Cloud Map, Service Mesh, Networking |
+| **[high_availability_architecture](https://github.com/vibtellect/high_availability_architecture)** | Demonstriert eine hochverfügbare Architektur über mehrere Availability Zones hinweg. Enthält Health Checks, automatische Failover-Mechanismen und resiliente Komponenten. <br>🎯 **Learning:** Planung und Validierung von Multi-AZ-Strategien, Resilienztests und automatischem Recovery-Design in der Cloud. | Python, AWS EC2, ALB, Auto Scaling, Multi-AZ, CloudWatch |
+| **[url-shortener-aws](https://github.com/vibtellect/url-shortener-aws)** | Ein serverloser URL-Shortener als Microservice mit API Gateway und Lambda. Bietet CRUD-Endpunkte, speichert Kurzlinks in DynamoDB und nutzt Infrastructure as Code für die Bereitstellung. <br>🎯 **Learning:** Entwicklung und Betrieb skalierbarer Serverless-APIs mit Fokus auf Kostenoptimierung, Sicherheit und IaC. | TypeScript, AWS Lambda, API Gateway, DynamoDB, CDK, Serverless Design |
 
 ---
 
